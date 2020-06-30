@@ -170,5 +170,5 @@ npm run dev
 
 ### 打包发布
 ```
-npm run electron:build
+npm run electron:build -- --linux=AppImage --arm64
 ```
