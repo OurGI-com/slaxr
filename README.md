@@ -1,3 +1,10 @@
+编译了一个版本在 松果派的armbian系统里试了下, 绝大部分视频都是秒播, 非常不错:
+https://github.com/OurGI-com/slaxr/releases/tag/test
+
+看到有人也编译了android版本给手机用(https://github.com/vicedev/ZY-Player-Android),
+觉得电视的话完全可以用松果派/树莓派等便宜的单板机 直接装armbian玩 而不需要去搞半开放的android系统
+
+
 <p align="center">
 <img width="128" src="https://i.loli.net/2020/05/07/9kLvPnWVCp7538c.png" >
 </p>
@@ -21,11 +28,6 @@
 <img src="https://img.shields.io/github/workflow/status/Hunlongyu/ZY-Player/release-build?style=for-the-badge">
 <p>
 
-编译了一个版本在 松果派的armbian系统里试了下, 绝大部分视频都是秒播, 非常不错:
-https://github.com/OurGI-com/slaxr/releases/tag/test
-
-看到有人也编译了android版本给手机用(https://github.com/vicedev/ZY-Player-Android),
-觉得电视的话完全可以用松果派/树莓派等便宜的单板机 直接装armbian玩 而不需要去搞半开放的android系统
 
 # ZY Player 资源播放器
 
