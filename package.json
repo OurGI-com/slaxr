@@ -17,7 +17,7 @@
     "postuninstall": "electron-builder install-app-deps",
     "electron:generate-icons": "electron-icon-builder --input=./public/icon.png --output=build --flatten",
     "release": "vue-cli-service electron:build -p always",
-    "dist": "vue-cli-service electron:build --arm64"
+    "dist": "vue-cli-service electron:build --linux --arm64"
   },
   "main": "background.js",
   "dependencies": {
