@@ -2,7 +2,7 @@
 https://github.com/OurGI-com/slaxr/releases/tag/test
 
 看到有人也编译了android版本给手机用(https://github.com/vicedev/ZY-Player-Android),
-觉得电视的话完全可以用松果派/树莓派等便宜的单板机 直接装armbian玩 而不需要去折腾谷歌半开放半的android系统
+觉得电视的话完全可以用松果派/树莓派等便宜的单板机 直接装armbian玩 而不需要去折腾谷歌半开放半的android tv系统
 <img src="https://raw.githubusercontent.com/OurGI-com/slaxr/master/IMG_20200630_220346.jpg">
 
 <p align="center">
